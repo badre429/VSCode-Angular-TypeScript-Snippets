@@ -2516,8 +2516,7 @@
       "</button>",
       "<mat-menu #${menu}=\"matMenu\">",
       "\t<button mat-menu-item>",
-      "\t\t<mat-icon>dialpad</mat-icon>",
-      "\t\t<span>Redial</span>",
+      "\t\t<span>{$2:Edit}</span>",
       "\t</button>",
       "</mat-menu>"
     ]
